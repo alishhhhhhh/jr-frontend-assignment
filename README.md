@@ -57,4 +57,5 @@ You can use any of the above apis available. Also, You are free to use any other
 
 Note: The assignment is intentionally challenging, and you are not expected to complete all the bonus tasks. Focus on delivering high-quality code and meeting the core requirements first.
 
+Check out the discussion section of this repo to ask any related queries or doubts. You can also mail us to `contact@internsathi.com`
 Good luck with your assignment! If you have any questions, feel free to ask for clarification.
