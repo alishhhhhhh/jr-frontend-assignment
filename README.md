@@ -2,7 +2,7 @@
 
 ## Assignment Description:
 
-In this assignment, you will be tasked with developing a Next.js application that demonstrates your proficiency in advanced Next.js concepts and web development skills. The assignment will assess your ability to architect and implement complex features using Next.js, React, and related technologies. You will be required to build a multi-page application with specific functionality and meet certain criteria outlined below.
+In this assignment, you will be tasked with developing a Next.js application that demonstrates your proficiency in advanced Next.js concepts and web development skills. The assignment will assess your ability to architect and implement complex features using Next.js, React, and related technologies. You must build a multi-page application with specific functionality and meet the criteria outlined below.
 
 ## Instructions:
 
@@ -48,14 +48,14 @@ You can use any of the above apis available. Also, You are free to use any other
 
 1. Fork this GitHub repository [Assignment Repo](https://github.com/internsathi/jr-frontend-assignment) to your own GitHub account.
 2. Commit your code regularly and push the changes to your forked repository.
-3. Do not create pull request just submit your forked repository.
+3. Do not create a pull request just submit your forked repository.
 4. Provide a DOCS.md file with instructions on how to set up and run your application.
-5. Once you have completed the assignment, share the repository URL along with live deployed url of your project with us via the [submission form](https://forms.gle/FV9tXPPNmsTsPqrZ8)
+5. Once you have completed the assignment, share the repository URL along with the live deployed URL of your project with us via the [submission form](https://forms.gle/FV9tXPPNmsTsPqrZ8)
 
-- Submission Deadline: Monday July 3, 2023, 10:00 AM
+- Submission Deadline: Monday, July 3, 2023, 10:00 AM
 
 
 Note: The assignment is intentionally challenging, and you are not expected to complete all the bonus tasks. Focus on delivering high-quality code and meeting the core requirements first.
 
-Check out the discussion section of this repo to ask any related queries or doubts. You can also mail us to `contact@internsathi.com`
+Check out the discussion section of this repo to ask any related queries or doubts.
 Good luck with your assignment! If you have any questions, feel free to ask for clarification.
