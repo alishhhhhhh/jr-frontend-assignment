@@ -50,7 +50,7 @@ You can use any of the above apis available. Also, You are free to use any other
 2. Commit your code regularly and push the changes to your forked repository.
 3. Do not create pull request just submit your forked repository.
 4. Provide a DOCS.md file with instructions on how to set up and run your application.
-5. Once you have completed the assignment, share the repository URL along with live deployed url of your project with us via the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSd49m7F_6oSXSI5RFQY_ps2CDQIt3i_iCqrPgzplbqIy8N4EA/viewform)
+5. Once you have completed the assignment, share the repository URL along with live deployed url of your project with us via the [submission form](https://forms.gle/FV9tXPPNmsTsPqrZ8)
 
 - Submission Deadline: Monday July 3, 2023, 10:00 AM
 
