@@ -46,7 +46,7 @@ You can use any of the above apis available. Also, You are free to use any other
 
 ## Submission Guidelines:
 
-1. Fork this GitHub repository [Assignment Repo](https://github.com/internsathi/frontend-assignment) to your own GitHub account.
+1. Fork this GitHub repository [Assignment Repo](https://github.com/internsathi/jr-frontend-assignment) to your own GitHub account.
 2. Commit your code regularly and push the changes to your forked repository.
 3. Do not create pull request just submit your forked repository.
 4. Provide a DOCS.md file with instructions on how to set up and run your application.
